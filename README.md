@@ -1,1 +1,3 @@
-# INFO2300_hw3
+# Spotify Mini
+
+A small app showcasing the spotify API and its usage.
